@@ -37,7 +37,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Validation</mainClass>
+                            <mainClass>org.bitbucket.dkrut.Validation</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
