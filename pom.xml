@@ -6,7 +6,7 @@
 
     <groupId>org.bitbucket.dkrut</groupId>
     <artifactId>validateXmlXsd</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <name>validateXmlXsd</name>
     <description>XML validator using XSD schema</description>
