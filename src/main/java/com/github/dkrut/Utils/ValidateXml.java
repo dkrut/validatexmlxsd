@@ -1,4 +1,4 @@
-package org.bitbucket.dkrut.Utils;
+package com.github.dkrut.Utils;
 
 import org.xml.sax.SAXException;
 import javax.xml.XMLConstants;

@@ -1,6 +1,6 @@
-package org.bitbucket.dkrut;
+package com.github.dkrut;
 
-import org.bitbucket.dkrut.Utils.ValidateXml;
+import com.github.dkrut.Utils.ValidateXml;
 
 import java.io.File;
 import java.util.logging.Level;
